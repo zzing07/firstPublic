@@ -8,6 +8,7 @@ public class mac {
     public void macFunc(){
 
         System.out.println("im starting to get it");
+        System.out.println("added from mac 2");
     }
 
 }
