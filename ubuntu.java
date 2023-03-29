@@ -6,5 +6,6 @@ public class ubuntu{
 
     public void firstFunc(){
         System.out.println("adding first function");
+        System.out.println("added this after mernign main into ubuntu");
     }
 }
