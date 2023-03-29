@@ -5,4 +5,9 @@ public class mac {
         System.out.println("added another lines");
     }
 
+    public void macFunc(){
+
+        System.out.println("im starting to get it");
+    }
+
 }
