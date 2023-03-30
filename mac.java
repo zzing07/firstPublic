@@ -17,4 +17,8 @@ public class mac {
         System.out.println("deleted branched on github and push again");
     }
 
+    public void mac(){
+        System.out.println("maccscsc");
+    }
+
 }
