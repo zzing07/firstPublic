@@ -13,6 +13,7 @@ public class ubuntu{
         System.out.println("i am tring my best");
         System.out.println("retry");
         System.out.println("anotther rety");
+        System.out.println("aded ti extend main");
     }
 
     public void happy(){
