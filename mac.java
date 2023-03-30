@@ -6,6 +6,7 @@ public class mac {
         System.out.println("29 morning");
 
         System.out.println("kfnwefs");
+        System.out.println("woienwfe");
     }
 
     public void macFunc(){
