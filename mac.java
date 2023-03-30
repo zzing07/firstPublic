@@ -19,6 +19,7 @@ public class mac {
 
     public void mac(){
         System.out.println("maccscsc");
+        System.out.println("added another one");
     }
 
 }
