@@ -26,7 +26,7 @@ public class mac {
     }
 
     public void feature2(){
-        //1ewd
+        //1ewd de
     }
 
 }
