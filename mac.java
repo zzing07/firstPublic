@@ -4,6 +4,8 @@ public class mac {
         System.out.println("here we go in mac.java");
         System.out.println("added another lines");
         System.out.println("29 morning");
+
+        System.out.println("kfnwefs");
     }
 
     public void macFunc(){
