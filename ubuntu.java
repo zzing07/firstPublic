@@ -24,4 +24,8 @@ public class ubuntu{
     public void feat1(){
         //wef
     }
+
+    public void feat2(){
+        //wefwefwef
+    }
 }
