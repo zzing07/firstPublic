@@ -21,5 +21,8 @@ public class mac {
         System.out.println("maccscsc");
         System.out.println("added another one");
     }
+    public void feature1(){
+        //
+    }
 
 }
