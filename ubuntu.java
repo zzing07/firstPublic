@@ -20,4 +20,8 @@ public class ubuntu{
         System.out.println("wofnwofnewnfwpnfHAPPY");
         System.out.println("praise the Lord!");
     }
+
+    public void feat1(){
+        //
+    }
 }
