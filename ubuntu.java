@@ -13,10 +13,11 @@ public class ubuntu{
         System.out.println("i am tring my best");
         System.out.println("retry");
         System.out.println("anotther rety");
-        System.out.println("aded ti extend main");
+        System.out.println("aded ti exted ZZZZ");
     }
 
     public void happy(){
         System.out.println("wofnwofnewnfwpnfHAPPY");
+        System.out.println("praise the Lord!");
     }
 }
