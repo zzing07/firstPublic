@@ -14,4 +14,8 @@ public class ubuntu{
         System.out.println("retry");
         System.out.println("anotther rety");
     }
+
+    public void happy(){
+        System.out.println("wofnwofnewnfwpnfHAPPY");
+    }
 }
