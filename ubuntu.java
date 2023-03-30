@@ -18,4 +18,8 @@ public class ubuntu{
     public void happy(){
         System.out.println("wofnwofnewnfwpnfHAPPY");
     }
+
+    public void ubun (){
+        System.out.println("ubun");
+    }
 }
