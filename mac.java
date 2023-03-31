@@ -7,6 +7,7 @@ public class mac {
 
         System.out.println("kfnwefs");
         System.out.println("woienwfe");
+        System.out.println("version1");
     }
 
     public void macFunc(){
@@ -24,5 +25,6 @@ public class mac {
     public void feature1(){
         //
     }
+
 
 }
