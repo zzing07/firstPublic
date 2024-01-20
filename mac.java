@@ -23,7 +23,11 @@ public class mac {
         System.out.println("added another one");
     }
     public void feature1(){
-        //
+        //1ewd
+    }
+
+    public void feature2(){
+        //1ewd de
     }
 
 
