@@ -1,6 +1,13 @@
 this is the start!
 
+<<<<<<< HEAD
 wefwefe
+=======
+
+wow this is great
+
+added in here from main
+>>>>>>> 93aad083b652255e72f436ba03ea5567fd4b5f26
 
 
 added in here from main
