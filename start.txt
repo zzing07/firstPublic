@@ -4,7 +4,6 @@ this is the start!
 wefe:three added start here in main
 wef:this is the start!
 wefe:three
->>>>>>> 87d1e5a (fixed the commit)
 wefwef
 :wefe
 wejfnkwekjfnwfwefwefe
